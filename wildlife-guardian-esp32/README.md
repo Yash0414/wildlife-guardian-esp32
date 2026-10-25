@@ -17,8 +17,7 @@ Camera-based motion monitoring and photo alerts using the Seeed Studio XIAO ESP3
 ## Repository layout
 - `firmware/` — Arduino firmware
 - `docs/` — setup, wiring and troubleshooting guides
-- `images/` — project photos and wiring diagrams
-- `web-dashboard/` — reserved for dashboard code, if/when added
+
 
 ## Getting started
 1. Open `firmware/wildlife_guardian.ino` in Arduino IDE.
