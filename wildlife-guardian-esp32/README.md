@@ -37,4 +37,4 @@ Camera-based motion monitoring and photo alerts using the Seeed Studio XIAO ESP3
 - [Troubleshooting](docs/troubleshooting.md)
 
 ## Contributions
-Issues and improvements are welcome. Add photos and diagrams to `images/` and link them from the relevant documentation.
+Issues and improvements are welcome. 
