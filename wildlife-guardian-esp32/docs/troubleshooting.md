@@ -15,5 +15,3 @@
 - Increase the motion threshold or cooldown in the working firmware.
 - Test under stable lighting and avoid moving the camera during calibration.
 
-## Photos or SD-card history are missing
-SD-card history is not included by this scaffold. Add and test that feature before documenting it as implemented.
